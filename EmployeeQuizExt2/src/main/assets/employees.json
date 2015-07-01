@@ -1,0 +1,75 @@
+[
+    {
+        "firstName":"Andy",
+        "lastName":"Rubin",
+        "imageFileName":"andy_rubin.jpg",
+        "office": "Munich"
+    },
+    {
+        "firstName":"James",
+        "lastName":"Gosling",
+        "imageFileName":"james_gosling.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Joshua",
+        "lastName":"Bloch",
+        "imageFileName":"joshua_bloch.jpg",
+        "office": "Munich"
+    },
+    {
+        "firstName":"Jürgen",
+        "lastName":"Höller",
+        "imageFileName":"juergen_hoeller.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Larry",
+        "lastName":"Page",
+        "imageFileName":"larry_page.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Marissa",
+        "lastName":"Mayer",
+        "imageFileName":"marissa_mayer.jpg",
+        "office": "Stuttgart"
+    },
+    {
+        "firstName":"Mark",
+        "lastName":"Zuckerberg",
+        "imageFileName":"mark_zuckerberg.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Martin",
+        "lastName":"Fowler",
+        "imageFileName":"martin_fowler.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Martin",
+        "lastName":"Odersky",
+        "imageFileName":"martin_odersky.jpg",
+        "office": "Munich"
+    },
+    {
+        "firstName":"Robert",
+        "lastName":"Martin",
+        "imageFileName":"robert_martin.jpg",
+        "office": "Stuttgart"
+    },
+    {
+        "firstName":"Rod",
+        "lastName":"Johnson",
+        "imageFileName":"rod_johnson.jpg",
+        "office": "Frankfurt"
+    },
+    {
+        "firstName":"Sergey",
+        "lastName":"Brin",
+        "imageFileName":"sergey_brin.jpg",
+        "office": "Stuttgart"
+    }
+
+]

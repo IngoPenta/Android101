@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_button_text">Employee Quiz</string>
+    <string name="list_button_text">List of Employees</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee Quiz</string>
+
+    <string name="hello_world">Hello Pentasys!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quiz_button_text">Employee Quiz</string>
+    <string name="list_button_text">List of Employees</string>
+</resources>
